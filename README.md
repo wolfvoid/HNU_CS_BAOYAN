@@ -6,8 +6,6 @@
 
 HNU计算机保研交流群（进群提供学号信息+改备注）：439182875
 
-<img src="imgs/RedGroup.jpg" alt="红群链接" style="zoom:33%;" />
-
 ## 📅 年度汇总
 
 ### 2026届
@@ -44,6 +42,10 @@ HNU计算机保研交流群（进群提供学号信息+改备注）：439182875
 ## 📜 许可证
 
 本项目采用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 许可证，仅限非商业使用，使用时请注明出处。
+
+最后附上红群的二维码
+
+<img src="imgs/RedGroup.jpg" width="400" height="450">
 
 ---
 
