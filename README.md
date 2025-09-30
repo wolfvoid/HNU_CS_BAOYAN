@@ -40,6 +40,12 @@ HNU计算机保研交流群（进群提供学号信息+改备注）：439182875
 
 感谢所有贡献宝贵经验的同学们：
 
+- 2026届：
+- 2025届：[@甘晴void](https://github.com/wolfvoid), [@gcmarks](https://github.com/gcmarks)
+- 2024届：[@Aaron](https://github.com/A-Y-1)
+
+项目的传递需要您的帮助，哪怕只是一届中断本项目就将永远陷入沉寂，欢迎您接手本年度的仓库维护（请联系红群管理员）。
+
 ## 📜 许可证
 
 本项目采用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 许可证，仅限非商业使用，使用时请注明出处。
